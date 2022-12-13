@@ -12,27 +12,11 @@ Hi, i'm [Nawras Bukhari](https://nawrasbukhari.tech/), a cyber-security speciali
 - 💼 any freelance work? do reach, [email](mailto:nawrasbukhari@hotmail.com) 😊
 - 💬 ask me about anything, i am happy to help;
 
-**Languages and tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **This week i spent my time on:**
-
-```text
-PHP          9 hrs 27 mins   ████████████████████▓░░░░   60.44 %
-Python       4 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   20.06 %
-JavaScript   1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   18.64 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-```
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasBukhari&hide_langs_below=1&theme=gotham&line_height=27&layout=compact" />
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NawrasBukhari&show_icons=true&theme=gotham" alt="NawrasBukhari" />
+<img src="https://github-readme-stats.vercel.app/api?username=NawrasBukhari&show_icons=true&theme=gotham" alt="NawrasBukhari" />
 
 ### Check below my latest repos 👇
 
