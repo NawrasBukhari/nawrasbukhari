@@ -16,7 +16,7 @@ Hi, i'm [Nawras Bukhari](https://nawrasbukhari.tech/), a cyber-security speciali
 
 📈 my github stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NawrasBukhari?cardType=level-alternate&theme=dracula)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NawrasBukhari?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
 
 ### Check below my latest repos 👇
 
