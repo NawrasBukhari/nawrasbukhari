@@ -16,7 +16,7 @@ Hi, i'm [Nawras Bukhari](https://nawrasbukhari.tech/), a cyber-security speciali
 
 📈 my github stats
 
-<img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=NawrasBukhari" alt="NawrasBukhari" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NawrasBukhari?cardType=level-alternate&theme=dracula)](https://git.io/awesome-stats-card)
 
 ### Check below my latest repos 👇
 
