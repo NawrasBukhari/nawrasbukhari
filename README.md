@@ -10,56 +10,68 @@
 
 <hr />
 
-<h2 align="center">Selected work</h2>
+<h2 align="left">01 / Selected systems</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚘 <a href="https://nbukhari.dev/work/avtosan">Avtosan</a></h3>
-      <p>Production vehicle assessment: document analysis, OCR, VIN validation, market pricing, and bank-ready reports.</p>
+      <p><sub>01 &nbsp;·&nbsp; AUTOMOTIVE / VALUATION</sub></p>
+      <h3><a href="https://nbukhari.dev/work/avtosan">Avtosan ↗</a></h3>
+      <p>Documents → identity → market pricing → bank-ready assessment.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://nbukhari.dev/work/fire-smoke-intelligence">SkyVision</a></h3>
-      <p>Desktop video intelligence with detection, tracking, local semantic analysis, and operator-defined monitoring.</p>
+      <p><sub>02 &nbsp;·&nbsp; COMPUTER VISION / MONITORING</sub></p>
+      <h3><a href="https://nbukhari.dev/work/fire-smoke-intelligence">SkyVision ↗</a></h3>
+      <p>Video detection and tracking, local semantic analysis, operator rules, and evidence.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦌 <a href="https://nbukhari.dev/work/saiga-vision">SaigaVision</a></h3>
-      <p>Aerial wildlife monitoring that connects observability, detection, tracking, and geolocation while keeping visible counts distinct from population estimates.</p>
+      <p><sub>03 &nbsp;·&nbsp; WILDLIFE / METROLOGY</sub></p>
+      <h3><a href="https://nbukhari.dev/work/saiga-vision">SaigaVision ↗</a></h3>
+      <p>Aerial observations grounded in observability, tracking, and geolocation; visible counts remain distinct from population estimates.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚁 <a href="https://nbukhari.dev/work/uav-resilient-field-systems">UAV field systems</a></h3>
-      <p>Telemetry architecture with validation before persistence and separate observation and command paths.</p>
+      <p><sub>04 &nbsp;·&nbsp; UAV / SECURITY</sub></p>
+      <h3><a href="https://nbukhari.dev/work/uav-resilient-field-systems">UAV field systems ↗</a></h3>
+      <p>Validated telemetry, explicit trust boundaries, and separate observation and command paths.</p>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://nbukhari.dev/#work">Explore all work →</a></p>
+<p align="center"><a href="https://nbukhari.dev/#work">More systems &amp; case studies →</a></p>
 
-<h2 align="center">Research</h2>
+<h2 align="left">02 / Research</h2>
 
-<p align="center">
-  <a href="https://nbukhari.dev/research/saiga-counting-metrology">Saiga counting: a metrological framework</a>
-  &nbsp;·&nbsp;
-  <a href="https://doi.org/10.37943/25GEVU5826">UAV telemetry cybersecurity architecture</a>
-  &nbsp;·&nbsp;
-  <a href="https://vestnik.alt.edu.kz/index.php/journal/article/view/3665">Machine learning for UAV control-channel security</a>
+<ul>
+  <li><a href="https://nbukhari.dev/research/saiga-counting-metrology">Saiga counting — a metrological framework</a></li>
+  <li><a href="https://doi.org/10.37943/25GEVU5826">Cybersecurity architecture for UAV telemetry</a> · <em>Scientific Journal of Astana IT University</em></li>
+  <li><a href="https://vestnik.alt.edu.kz/index.php/journal/article/view/3665">Machine learning for UAV control-channel security</a> · <em>Vestnik KazATK</em></li>
+</ul>
+
+<h2 align="left">03 / Tools in the field</h2>
+
+<p>
+  <strong>Backend</strong><br />
+  <code>Python</code> <code>FastAPI</code> <code>PHP</code> <code>Laravel</code>
 </p>
-
-<h2 align="center">Technologies</h2>
-
-<p align="center">
-  <strong>Backend</strong> · Python / FastAPI · PHP / Laravel<br />
-  <strong>Frontend</strong> · Vue · React · TypeScript<br />
-  <strong>Computer vision</strong> · C++ · Qt · OpenCV · FFmpeg · TensorRT · Core ML<br />
-  <strong>Data &amp; infrastructure</strong> · PostgreSQL · Redis · SQLite · Docker · Nginx
+<p>
+  <strong>Interfaces</strong><br />
+  <code>Vue</code> <code>React</code> <code>TypeScript</code> <code>Qt</code>
+</p>
+<p>
+  <strong>Vision &amp; inference</strong><br />
+  <code>C++</code> <code>OpenCV</code> <code>FFmpeg</code> <code>TensorRT</code> <code>Core ML</code>
+</p>
+<p>
+  <strong>Data &amp; infrastructure</strong><br />
+  <code>PostgreSQL</code> <code>Redis</code> <code>SQLite</code> <code>Docker</code> <code>Nginx</code>
 </p>
 
 <hr />
 
 <p align="center">
-  <a href="https://nbukhari.dev">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://nbukhari.dev/#contact">Get in touch</a> &nbsp;·&nbsp;
+  <a href="https://nbukhari.dev">PORTFOLIO</a> &nbsp;·&nbsp;
+  <a href="https://nbukhari.dev/#contact">CONTACT</a> &nbsp;·&nbsp;
   <a href="https://orcid.org/0009-0008-3682-2029">ORCID</a>
 </p>
