@@ -3,15 +3,10 @@
 
   <br />
 
-  <a href="https://nbukhari.dev"><img src="https://img.shields.io/badge/PORTFOLIO-nbukhari.dev-167c78?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://nbukhari.dev/research/saiga-counting-metrology"><img src="https://img.shields.io/badge/RESEARCH-Publications-315b78?style=for-the-badge" alt="Research" /></a>
-  <a href="https://orcid.org/0009-0008-3682-2029"><img src="https://img.shields.io/badge/ORCID-0009--0008--3682--2029-a6ce39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://nbukhari.dev"><img src="https://img.shields.io/badge/PORTFOLIO-nbukhari.dev-167c78?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://nbukhari.dev/research/saiga-counting-metrology"><img src="https://img.shields.io/badge/RESEARCH-Read-315b78?style=flat-square" alt="Research" /></a>
+  <a href="https://orcid.org/0009-0008-3682-2029"><img src="https://img.shields.io/badge/ORCID-Profile-a6ce39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
 </div>
-
-<p align="center">
-  <strong>Systems architect · Software engineer · Scientific researcher</strong><br />
-  I build production software across backend platforms, computer vision, cybersecurity, and infrastructure.
-</p>
 
 <hr />
 
