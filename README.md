@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Nawras Bukhari — systems architect, software engineer, and scientific researcher" width="100%" />
+  <img src="assets/field-notes-banner.svg" alt="Nawras Bukhari — systems architect, software engineer, and scientific researcher" width="100%" />
 
   <br />
 
